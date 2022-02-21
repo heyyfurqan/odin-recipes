@@ -9,7 +9,8 @@ Odin Recipes is an HTML-only (for the time being) recipes website. It is a TOP p
 ## Project Link
 
 The recipes project lesson can be found [here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes).
-
+## Live Link
+https://heyyfurqan.github.io/odin-recipes/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
